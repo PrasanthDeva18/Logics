@@ -15,6 +15,8 @@ console.log(obj)
 
 // In Object assign have an one target and multiple source 
 // In Object assign used to clone the object keys to new object or empty
+// In Object assign same key present in source and target remains the traget key
+
 let obj3 = Object.assign({}, obj2)
 
 console.log(obj3)
