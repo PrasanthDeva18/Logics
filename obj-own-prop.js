@@ -13,3 +13,6 @@ let prop = Object.getOwnPropertyNames(obj2)
 
 console.log(prop)
 
+// O/P - [ 'name', 'rollno' ]
+
+
