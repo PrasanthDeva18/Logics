@@ -17,3 +17,23 @@ for(let i in obj) {
 }
 
 console.log("expected o/p \n", obj , "\n", objectE)
+
+
+// O/p
+vennila
+[ 'address', 'no 14, Javuli nagar,' ]
+[ 'gender', 'F' ]
+20
+[ 'address', 'no 14, Javuli nagar,' ]
+[ 'gender', 'F' ]
+expected o/p 
+ {
+  name: 'vennila',
+  empId: 20,
+  address: 'no 14, Javuli nagar,',
+  gender: 'F'
+} 
+ [
+  [ '0', [ 'address', 'no 14, Javuli nagar,' ] ],
+  [ '1', [ 'gender', 'F' ] ]
+]
